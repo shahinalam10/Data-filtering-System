@@ -36,7 +36,7 @@ The results are paginated with **10 users per page**, and filters remain applied
 ## 📂 Installation & Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/shahinalam10/Data-filtering-System.git
    cd your-repo-name
 2. **Install dependencies
     ```bash 
